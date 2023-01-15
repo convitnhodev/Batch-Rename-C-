@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\AddingSuffix\\AddingSuffixRules.csproj": {}
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\AddingSuffix\\AddingSuffixRules.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\AddingSuffix\\AddingSuffixRules.csproj": {
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\AddingSuffix\\AddingSuffixRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\AddingSuffix\\AddingSuffixRules.csproj",
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\AddingSuffix\\AddingSuffixRules.csproj",
         "projectName": "AddingSuffixRules",
-        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\AddingSuffix\\AddingSuffixRules.csproj",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\AddingSuffix\\AddingSuffixRules.csproj",
         "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\AddingSuffix\\obj\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\AddingSuffix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj": {
-                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj"
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringAction\\StringAction.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringAction\\StringAction.csproj"
               },
-              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
-                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj"
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj": {
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringAction\\StringAction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj",
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringAction\\StringAction.csproj",
         "projectName": "StringAction",
-        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringAction\\StringAction.csproj",
         "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\obj\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringAction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
-                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj"
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj"
               }
             }
           }
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj",
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj",
         "projectName": "StringArguments",
-        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj",
         "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\obj\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",

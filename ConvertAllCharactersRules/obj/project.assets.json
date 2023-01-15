@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
+      "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
       "projectName": "ConvertAllCharactersRules",
-      "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
+      "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
       "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\obj\\",
+      "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\ConvertAllCharactersRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,11 +78,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj": {
-              "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj"
+            "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringAction\\StringAction.csproj": {
+              "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringAction\\StringAction.csproj"
             },
-            "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
-              "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj"
+            "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj": {
+              "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj"
             }
           }
         }

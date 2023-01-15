@@ -77,7 +77,7 @@ namespace ConvertAllCharactersRules {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ConvertAllCharactersRules;component/convertallcharactersdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ConvertAllCharactersRules;V1.0.0.0;component/convertallcharactersdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\convertAllCharactersDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

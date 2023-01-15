@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8nnxlJnTCNNrhZx5lvzvZB4EN/2GWvoHw6H2A290uG5VdLQYO6net5L0C9Qt0pQAdG8BWqdSHumU8U1VPVshFw==",
+  "dgSpecHash": "0UGwQUKYT5Q/+w5EFp6Go6nSBBEU+DdH4VYqPsgU/e1Vk9iOrbplvWftHNNvn8cHl7GnODFX/6kStW/d6vuYfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\BatchRename\\BatchRename.csproj",
+  "projectFilePath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\BatchRename\\BatchRename.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hungt\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
     "C:\\Users\\hungt\\.nuget\\packages\\fluent.ribbon\\8.0.3\\fluent.ribbon.8.0.3.nupkg.sha512",

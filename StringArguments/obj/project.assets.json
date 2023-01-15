@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj",
+      "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj",
       "projectName": "StringArguments",
-      "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj",
+      "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\StringArguments.csproj",
       "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\obj\\",
+      "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\g\\Batch-Rename-C-\\StringArguments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",

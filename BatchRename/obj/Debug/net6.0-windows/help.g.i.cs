@@ -54,7 +54,7 @@ namespace BatchRename {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BatchRename;component/help.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BatchRename;V1.0.0.0;component/help.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\help.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

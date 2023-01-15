@@ -62,7 +62,7 @@ namespace BatchRename
             String information = "Thành viên nhóm: \n";
             information += "1. 20120488 - Thái Nguyễn Việt Hùng\n";
             information += "2. 20120489 - Võ Phi Hùng\n";
-            information += "3. 201204896 - Nguyễn Cảnh Huy\n";
+            information += "3. 20120496 - Nguyễn Cảnh Huy\n";
             information += "4. 20120474 - Lê Kim Hiếu";
             System.Windows.MessageBox.Show(information, "Giới thiệu", MessageBoxButton.OK, MessageBoxImage.Information);
         }
