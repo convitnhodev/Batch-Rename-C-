@@ -8,8 +8,8 @@
         Title="Help" Height="600" Width="800"  MaxWidth="1000" MinHeight="450" MinWidth="600" WindowStartupLocation="CenterScreen"
         >
     <Grid>
-        <Label Content="Hướng dẫn sử dụng giao diện" HorizontalAlignment="Center" VerticalAlignment="Top" HorizontalContentAlignment="Center" Margin="0, 30, 0, 0"
-               FontSize="25" VerticalContentAlignment="Center" Height="45" Width="500" FontWeight="Bold" Foreground="Red" Background="Yellow" />
+        <Label Content="Hướng dẫn sử dụng" HorizontalAlignment="Center" VerticalAlignment="Top" HorizontalContentAlignment="Center" Margin="0, 30, 0, 0"
+               FontSize="25" VerticalContentAlignment="Center" Height="45" Width="500" FontWeight="Bold" Foreground="Blue" Background="Yellow" />
         <TextBlock Text="- Để add method: bạn chọn method trong combobox rồi chọn button Add Method kế bên" FontSize="17" FontWeight="Bold"
                    VerticalAlignment="Top" HorizontalAlignment="Left" Margin="50, 120, 0, 0"/>
         <TextBlock Text="- Sau khi add method, bạn phải edit method để điền tính năng mong muốn" FontSize="17" FontWeight="Bold"
@@ -24,7 +24,7 @@
                    VerticalAlignment="Top" HorizontalAlignment="Left" Margin="50, 370, 0, 0"/>
         <TextBlock Text="- Chọn button Preview để xem trước kết quả" FontSize="17" FontWeight="Bold" 
                    VerticalAlignment="Top" HorizontalAlignment="Left" Margin="50, 420, 0, 0"/>
-        <Button Content="Đã hiểu"  Width="120" Height="40" VerticalAlignment="Top" HorizontalAlignment="Left" Background="Red" Foreground="Yellow" FontSize="25" FontWeight="Bold"
+        <Button Content="OK"  Width="120" Height="40" VerticalAlignment="Top" HorizontalAlignment="Left" Background="Green" Foreground="Yellow" FontSize="25" FontWeight="Bold"
                 Margin="333,473,0,0" Click="Button_Click"/>
     </Grid>
 </Window>
