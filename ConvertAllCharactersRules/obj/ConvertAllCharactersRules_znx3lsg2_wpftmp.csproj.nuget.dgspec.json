@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
+        "projectName": "ConvertAllCharactersRules",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
+        "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj"
+              },
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj",
+        "projectName": "StringAction",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj",
+        "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj",
+        "projectName": "StringArguments",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj",
+        "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

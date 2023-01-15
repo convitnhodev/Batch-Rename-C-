@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {
+    "net6.0-windows7.0": {
       "ControlzEx/4.4.0": {
         "type": "package",
         "dependencies": {
@@ -9,10 +9,14 @@
           "System.Text.Json": "4.7.2"
         },
         "compile": {
-          "lib/netcoreapp3.1/ControlzEx.dll": {}
+          "lib/netcoreapp3.1/ControlzEx.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.1/ControlzEx.dll": {}
+          "lib/netcoreapp3.1/ControlzEx.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -24,10 +28,14 @@
           "ControlzEx": "4.4.0"
         },
         "compile": {
-          "lib/netcoreapp3.0/Fluent.dll": {}
+          "lib/netcoreapp3.0/Fluent.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.0/Fluent.dll": {}
+          "lib/netcoreapp3.0/Fluent.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App"
@@ -42,10 +50,14 @@
       "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {}
+          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {}
+          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -57,10 +69,14 @@
           "Fody": "6.5.1"
         },
         "compile": {
-          "lib/netstandard2.1/PropertyChanged.dll": {}
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/PropertyChanged.dll": {}
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "build/PropertyChanged.Fody.props": {}
@@ -69,15 +85,19 @@
       "System.Text.Json/4.7.2": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+          "lib/netcoreapp3.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+          "lib/netcoreapp3.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "ConvertAllCharactersRules/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "StringAction": "1.0.0",
           "StringArguments": "1.0.0"
@@ -94,7 +114,7 @@
       },
       "StringAction/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "StringArguments": "1.0.0"
         },
@@ -110,7 +130,7 @@
       },
       "StringArguments/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/StringArguments.dll": {}
         },
@@ -285,7 +305,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": [
+    "net6.0-windows7.0": [
       "ConvertAllCharactersRules >= 1.0.0",
       "Fluent.Ribbon >= 8.0.3",
       "PropertyChanged.Fody >= 3.4.0",
@@ -294,45 +314,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MXGC\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\hungt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\BatchRename\\BatchRename.csproj",
+      "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\BatchRename\\BatchRename.csproj",
       "projectName": "BatchRename",
-      "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\BatchRename\\BatchRename.csproj",
-      "packagesPath": "C:\\Users\\MXGC\\.nuget\\packages\\",
-      "outputPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\BatchRename\\obj\\",
+      "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\BatchRename\\BatchRename.csproj",
+      "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\BatchRename\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MXGC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\pp\\ltwins\\project_1_3\\BatchRename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj": {
-              "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj"
+            "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj": {
+              "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj"
             },
-            "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\StringAction.csproj": {
-              "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\StringAction.csproj"
+            "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj": {
+              "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj"
             },
-            "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj": {
-              "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj"
+            "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
+              "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj"
             }
           }
         }
@@ -344,8 +359,8 @@
       }
     },
     "frameworks": {
-      "net5.0-windows7.0": {
-        "targetAlias": "net5.0-windows",
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
         "dependencies": {
           "Fluent.Ribbon": {
             "target": "Package",
@@ -362,7 +377,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -374,7 +390,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,45 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pp\\ltwins\\project_1_3\\BatchRename\\BatchRename\\BatchRename.csproj": {}
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\BatchRename\\BatchRename.csproj": {}
   },
   "projects": {
-    "D:\\pp\\ltwins\\project_1_3\\BatchRename\\BatchRename\\BatchRename.csproj": {
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\BatchRename\\BatchRename.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\BatchRename\\BatchRename.csproj",
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\BatchRename\\BatchRename.csproj",
         "projectName": "BatchRename",
-        "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\BatchRename\\BatchRename.csproj",
-        "packagesPath": "C:\\Users\\MXGC\\.nuget\\packages\\",
-        "outputPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\BatchRename\\obj\\",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\BatchRename\\BatchRename.csproj",
+        "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\BatchRename\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MXGC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\pp\\ltwins\\project_1_3\\BatchRename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj": {
-                "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj"
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj"
               },
-              "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\StringAction.csproj": {
-                "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\StringAction.csproj"
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj"
               },
-              "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj": {
-                "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj"
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj"
               }
             }
           }
@@ -51,8 +47,8 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "dependencies": {
             "Fluent.Ribbon": {
               "target": "Package",
@@ -69,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,43 +78,39 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\pp\\ltwins\\project_1_3\\BatchRename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj": {
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
         "projectName": "ConvertAllCharactersRules",
-        "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
-        "packagesPath": "C:\\Users\\MXGC\\.nuget\\packages\\",
-        "outputPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\ConvertAllCharactersRules\\obj\\",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\ConvertAllCharactersRules.csproj",
+        "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\ConvertAllCharactersRules\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MXGC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\StringAction.csproj": {
-                "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\StringAction.csproj"
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj"
               },
-              "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj": {
-                "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj"
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj"
               }
             }
           }
@@ -129,15 +122,16 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -149,40 +143,36 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\StringAction.csproj": {
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\StringAction.csproj",
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj",
         "projectName": "StringAction",
-        "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\StringAction.csproj",
-        "packagesPath": "C:\\Users\\MXGC\\.nuget\\packages\\",
-        "outputPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringAction\\obj\\",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\StringAction.csproj",
+        "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringAction\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MXGC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj": {
-                "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj"
+              "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
+                "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj"
               }
             }
           }
@@ -194,15 +184,16 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -214,37 +205,33 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj": {
+    "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj",
+        "projectUniqueName": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj",
         "projectName": "StringArguments",
-        "projectPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\StringArguments.csproj",
-        "packagesPath": "C:\\Users\\MXGC\\.nuget\\packages\\",
-        "outputPath": "D:\\pp\\ltwins\\project_1_3\\BatchRename\\StringArguments\\obj\\",
+        "projectPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\StringArguments.csproj",
+        "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungt\\OneDrive\\Desktop\\window\\Batch-Rename\\StringArguments\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MXGC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
         },
@@ -255,15 +242,16 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -275,7 +263,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

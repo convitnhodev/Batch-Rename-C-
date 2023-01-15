@@ -60,10 +60,10 @@ namespace BatchRename
         private void btnAbout_Click(object sender, RoutedEventArgs e)
         {
             String information = "Thành viên nhóm: \n";
-            information += "1. 19120622 - Nguyễn Minh Phụng\n";
-            information += "2. 19120629 - Lê Hồng Quân\n";
-            information += "3. 19120728 - Trương Quốc Vương\n";
-            information += "4. 19120729 - Bùi Ngọc Thảo Vy";
+            information += "1. 20120488 - Thái Nguyễn Việt Hùng\n";
+            information += "2. 20120489 - Võ Phi Hùng\n";
+            information += "3. 201204896 - Nguyễn Cảnh Huy\n";
+            information += "4. 20120474 - Lê Kim Hiếu";
             System.Windows.MessageBox.Show(information, "Giới thiệu", MessageBoxButton.OK, MessageBoxImage.Information);
         }
 

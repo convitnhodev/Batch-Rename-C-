@@ -1,0 +1,12 @@
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\bin\Debug\net6.0-windows\StringArguments.deps.json
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\bin\Debug\net6.0-windows\StringArguments.dll
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\bin\Debug\net6.0-windows\StringArguments.pdb
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\obj\Debug\net6.0-windows\StringArguments.csproj.AssemblyReference.cache
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\obj\Debug\net6.0-windows\StringArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\obj\Debug\net6.0-windows\StringArguments.AssemblyInfoInputs.cache
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\obj\Debug\net6.0-windows\StringArguments.AssemblyInfo.cs
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\obj\Debug\net6.0-windows\StringArguments.csproj.CoreCompileInputs.cache
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\obj\Debug\net6.0-windows\StringArguments.dll
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\obj\Debug\net6.0-windows\refint\StringArguments.dll
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\obj\Debug\net6.0-windows\StringArguments.pdb
+C:\Users\hungt\OneDrive\Desktop\window\Batch-Rename\StringArguments\obj\Debug\net6.0-windows\ref\StringArguments.dll
